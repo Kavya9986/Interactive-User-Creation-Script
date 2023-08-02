@@ -10,7 +10,11 @@ To use this script, follow these steps:
 3. Execute the script with sudo privileges:
 
 ```sh
-$ sudo ./add_user --save copy
+$ sudo chmod +x add_user
+```
+
+```sh
+$ sudo ./add_user
 ```
 
 ### Author
